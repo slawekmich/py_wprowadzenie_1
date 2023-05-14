@@ -12,3 +12,5 @@ def dodawanie():
 test1()
 
 print("Wynik to:",dodawanie(), "noo, około:",dodawanie() )
+test1()
+test1()
