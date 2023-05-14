@@ -3,6 +3,7 @@ print('elo')
 def test1():
   print('elo test1')
   
+  
 test1()
 
 def dodawanie():
