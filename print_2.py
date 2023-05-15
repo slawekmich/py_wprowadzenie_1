@@ -11,7 +11,7 @@ def dodawanie():
   return 2+52
   
 test1()
-
+test1()
 print("Wynik to:",dodawanie(), "noo, około:",dodawanie() )
 test1()
 
