@@ -1,0 +1,29 @@
+[33mcommit 9a0542d3ff221d123a70d6152a150eb3e4e8a973[m[33m ([m[1;36mHEAD -> [m[1;32mASDF[m[33m, [m[1;31morigin/ASDF[m[33m)[m
+Author: slawekmich <slawek.michalski94@gmail.com>
+Date:   Mon May 15 17:37:55 2023 +0200
+
+    sfg
+
+[33mcommit 091009c96ce9e2acaf0f84c820a8e832f3dc9f46[m[33m ([m[1;32mmain[m[33m)[m
+Author: slawekmich <slawek.michalski94@gmail.com>
+Date:   Mon May 15 17:30:22 2023 +0200
+
+    test
+
+[33mcommit 357911d0103768fe034858891700cb2d436b881f[m
+Author: slawekmich <slawek.michalski94@gmail.com>
+Date:   Sun May 14 23:13:31 2023 +0200
+
+    test22
+
+[33mcommit adae023566d3a65ee5fa650e3320fd491a9d3eb5[m[33m ([m[1;32mbr1[m[33m)[m
+Author: slawekmich <slawek.michalski94@gmail.com>
+Date:   Sun May 14 23:07:12 2023 +0200
+
+    test11
+
+[33mcommit ecff3db09093677f862f93793a2b950bfa198a1f[m
+Author: slawekmich <slawek.michalski94@gmail.com>
+Date:   Sun May 14 23:02:49 2023 +0200
+
+    test 1 git
